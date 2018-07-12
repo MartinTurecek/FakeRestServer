@@ -1,11 +1,20 @@
 [
   {
-	"Id": 1,
     "CardNumber": 12454745124587456471,
     "Time": "2018-06-10T16:51:14",
 	"Terminal": "VCHOD",
 	"PersonalId": 544,
 	"IsExit": false,
+	"IsAttendance": false,
+	"IsAllowed": true,
+	"IsCompleted": true
+  },
+  {
+    "CardNumber": 12454745124587456471,
+    "Time": "2018-06-10T16:51:16",
+	"Terminal": "VCHOD2",
+	"PersonalId": 544,
+	"IsExit": true,
 	"IsAttendance": false,
 	"IsAllowed": true,
 	"IsCompleted": true
